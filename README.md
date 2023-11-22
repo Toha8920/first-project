@@ -46,4 +46,6 @@ mongoose built in method
 StudentModel.create() //builtin static method
 
 const student=new StudentModel();
-student.save(); //builtin instance method
+student.save(); //builtin instance method;
+
+password validation er jonno bycript library
